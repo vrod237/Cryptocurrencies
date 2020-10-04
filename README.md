@@ -20,4 +20,4 @@
 ## Summary
 - [Elbow Curve](https://github.com/vrod237/Cryptocurrencies/blob/master/elbow_curve.png):
 
-- 3D Scatter Plot:
+- [3D Scatter Plot](https://github.com/vrod237/Cryptocurrencies/blob/master/3d_cluster.png):
