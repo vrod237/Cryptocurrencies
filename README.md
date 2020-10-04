@@ -26,5 +26,5 @@
 <img src="https://github.com/vrod237/Cryptocurrencies/blob/master/3d_cluster.png" width="600">
 
 
-- [HVPlot](https://github.com/vrod237/Cryptocurrencies/blob/master/2d_cluster.png):
+- [HV Scatter Plot](https://github.com/vrod237/Cryptocurrencies/blob/master/2d_cluster.png):
 <img src="https://github.com/vrod237/Cryptocurrencies/blob/master/2d_cluster.png" width="600">
